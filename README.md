@@ -29,18 +29,18 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=johnpugh&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnpugh&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=johnpugh&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnpugh&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
