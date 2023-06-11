@@ -37,13 +37,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=futureok666&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me) [![Payoneer](https://img.shields.io/badge/Payoneer-F96854?style=for-the-badge&logo=payoneer&logoColor=black)](https://payoneer.com) 
-  
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
 </div>
 
