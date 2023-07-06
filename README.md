@@ -35,7 +35,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=futureok666&icon=0&color=1)]([https://visitcount.itsvg.in](https://futureok.onrender.com/)https://futureok.onrender.com/)
+[![](https://futureok.onrender.com/)]
 
 </div>
 
