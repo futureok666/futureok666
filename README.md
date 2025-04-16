@@ -1,14 +1,14 @@
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> Full-Stack Developer
+         width="45" /> Full-Stack Developer specializing in Web, Python, and AI solutions.
 </h1>
 
 
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building Frontend and Backend and Python.
+- 🔭 I’m currently building Frontend and Backend and Python and AI applications.
 - 🌱 I’m currently learning more about BlockChain.
 - ⚡ I never back away from a challenge and I strive to learn and sharpen my skills everyday.
 
